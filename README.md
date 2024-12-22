@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HunterRundhaug
 - 🌱 I’m currently learning Computer Science at the University of Arizona
-- 📫 How to reach me hunterrundhuag@outlook.com
+- 📫 How to reach me hunterrundhaug243@gmail.com
 
 <!---
 HunterRundhaug/HunterRundhaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
