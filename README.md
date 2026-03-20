@@ -28,6 +28,5 @@ Senior Computer Science student at the University of Arizona with experience bui
 I also have professional experience contributing to software and technical projects in private repositories and team environments.
 
 ## Contact
-- Portfolio: [hunterrundhaug.info](https://hunterrundhaug.info)
 - LinkedIn: [linkedin.com/in/hunterrundhaug](http://www.linkedin.com/in/hunterrundhaug)
 - Email: hunterrundhaug243@gmail.com
