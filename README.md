@@ -6,7 +6,7 @@ Senior Computer Science student at the University of Arizona with experience bui
 - Software Engineering
 - Backend Development
 - Full-Stack Web Development
-- Computer Graphics
+- Computer Graphics / Game programming
 - AI and Interactive Systems
 
 ## Tech Stack
