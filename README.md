@@ -1,8 +1,33 @@
-- 👋 Hi, I’m @HunterRundhaug
-- 🌱 I’m currently learning Computer Science at the University of Arizona
-- 📫 How to reach me hunterrundhaug243@gmail.com
+# Hi, I'm Hunter Rundhaug
 
-<!---
-HunterRundhaug/HunterRundhaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Computer Science student at the University of Arizona with experience building full-stack web applications, backend systems, and graphics-based projects.
+
+## Interests
+- Software Engineering
+- Backend Development
+- Full-Stack Web Development
+- Computer Graphics
+- AI and Interactive Systems
+
+## Tech Stack
+- Python
+- JavaScript
+- C / C++
+- Django
+- Node.js
+- SQL
+- HTML / CSS
+- Git
+
+## Featured Projects
+- **Lightbulb** — Social media web application built with JavaScript and Node.js
+- **C-- Compiler** — Lightweight compiler project in C demonstrating scanning and parsing
+- **[Your WebGL project name]** — Graphics project focused on transformations, rendering, and shader-based concepts
+
+## Experience
+I also have professional experience contributing to software and technical projects in private repositories and team environments.
+
+## Contact
+- Portfolio: [hunterrundhaug.info](https://hunterrundhaug.info)
+- LinkedIn: [linkedin.com/in/hunterrundhaug](http://www.linkedin.com/in/hunterrundhaug)
+- Email: hunterrundhaug243@gmail.com
