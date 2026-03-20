@@ -20,8 +20,8 @@ Senior Computer Science student at the University of Arizona with experience bui
 - Git
 
 ## Featured Projects
-- **Lightbulb** — Social media web application built with JavaScript and Node.js
-- **C-- Compiler** — Lightweight compiler project in C demonstrating scanning and parsing
+- **Lightbulb** Social media web application built with JavaScript and Node.js
+- **C-- Compiler** Lightweight compiler project in C demonstrating scanning and parsing
 
 
 ## Experience
