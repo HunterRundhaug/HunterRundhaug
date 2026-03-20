@@ -22,7 +22,7 @@ Senior Computer Science student at the University of Arizona with experience bui
 ## Featured Projects
 - **Lightbulb** — Social media web application built with JavaScript and Node.js
 - **C-- Compiler** — Lightweight compiler project in C demonstrating scanning and parsing
-- **[Your WebGL project name]** — Graphics project focused on transformations, rendering, and shader-based concepts
+
 
 ## Experience
 I also have professional experience contributing to software and technical projects in private repositories and team environments.
