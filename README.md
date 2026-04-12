@@ -22,6 +22,7 @@ Senior Computer Science student at the University of Arizona with experience bui
 ## Featured Projects
 - **Lightbulb** Social media web application built with JavaScript and Node.js
 - **C-- Compiler** Lightweight compiler project in C demonstrating scanning and parsing
+- **Hyper Sonic Flight Simulator** A 2D atmospheric flight simulation with realtime physics
 
 
 ## Experience
