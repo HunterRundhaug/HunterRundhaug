@@ -14,6 +14,7 @@ Senior Computer Science student at the University of Arizona with experience bui
 - JavaScript
 - C / C++
 - Django
+- .NET
 - Node.js
 - SQL
 - HTML / CSS
