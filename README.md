@@ -1,6 +1,6 @@
 # Hi, I'm Hunter Rundhaug
 
-Senior Computer Science student at the University of Arizona with experience building full-stack web applications, backend systems, and graphics-based projects.
+Junior Software Engineer
 
 ## Interests
 - Software Engineering
