@@ -2,7 +2,7 @@
 
 I'm a Junior Software Engineer interested in backend development, full-stack web development, computer graphics, game programming, and AI powered automation systems.
 
-I enjoy building practical software, learning how systems work under the hood, and creating projects that combine strong engineering with interactive user experiences.
+I enjoy building software, learning how systems work under the hood, and creating projects that combine strong engineering with interactive user experiences.
 
 ## About Me
 
